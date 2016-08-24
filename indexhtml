@@ -7,12 +7,7 @@
 	<title>Positionin2</title>
 </head>
 <body>
-	<!-- Inserta tu código aquí -->
-	<div class="caja celeste">
-		<div class="caja negro">
-			<div class="caja verde"> 
-			</div>
-		</div>
-	</div>
+	<a href="parte1/index.html">parte1</a>
+	<a href="parte2/index.html">parte2</a>
 </body>
 </html>

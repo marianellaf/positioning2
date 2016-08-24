@@ -1,1 +1,24 @@
 /* Inserta tu CSS aqui */
+.celeste{
+	width: 215px;
+	height: 215px;
+	position: relative;
+	background-color: #0048fb; 
+}
+.verde{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	background-color:#387804;
+	left:55px;
+	top:55px;
+}
+.negro{
+	width: 55px;
+	height: 55px;
+	position: static;
+	background-color: #000000;
+
+ 
+	
+}
